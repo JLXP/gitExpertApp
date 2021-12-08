@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gitExpertApp/static/css/main.7e70ccc3.chunk.css",
+    "main.js": "/gitExpertApp/static/js/main.2f72bb6d.chunk.js",
+    "main.js.map": "/gitExpertApp/static/js/main.2f72bb6d.chunk.js.map",
+    "runtime-main.js": "/gitExpertApp/static/js/runtime-main.4dd58cdf.js",
+    "runtime-main.js.map": "/gitExpertApp/static/js/runtime-main.4dd58cdf.js.map",
+    "static/js/2.3771cb91.chunk.js": "/gitExpertApp/static/js/2.3771cb91.chunk.js",
+    "static/js/2.3771cb91.chunk.js.map": "/gitExpertApp/static/js/2.3771cb91.chunk.js.map",
+    "index.html": "/gitExpertApp/index.html",
+    "static/css/main.7e70ccc3.chunk.css.map": "/gitExpertApp/static/css/main.7e70ccc3.chunk.css.map",
+    "static/js/2.3771cb91.chunk.js.LICENSE.txt": "/gitExpertApp/static/js/2.3771cb91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd58cdf.js",
+    "static/js/2.3771cb91.chunk.js",
+    "static/css/main.7e70ccc3.chunk.css",
+    "static/js/main.2f72bb6d.chunk.js"
+  ]
+}
