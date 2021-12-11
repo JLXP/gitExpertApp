@@ -13,3 +13,13 @@ ReactDOM.render(
 );
 
 
+/* 
+Configurar los siguientes puntos
+1.Enzyme
+2.Enzyme to json
+3. Debe mostrar el componente correctamente 
+    *shallow
+    *wrapper
+    *wrapper .toMatchSnapshot()
+*/
+
